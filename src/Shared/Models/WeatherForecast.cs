@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BlazorPages.Shared.Models
+namespace SaaSManager.Shared.Models
 {
     public class WeatherForecast
     {
